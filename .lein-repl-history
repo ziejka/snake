@@ -1,0 +1,7 @@
+(use 'reader.snake)
+(game)
+(exit)
+(game)
+(use 'reader.snake)
+(game)
+(exit)
